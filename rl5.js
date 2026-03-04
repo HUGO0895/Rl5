@@ -1,7 +1,7 @@
 import Funcionario from "./funcionario/funcionario.js";
 import Empresa from "./empresa/empresa.js";
 import Telefone from "./telefone/telefone.js";
-import Endereco from "./endereco/endereco.js";
+import Endereco from "./endereco/endereco.js";//BatataDOCS
 import Descritor from "./descritor/descritor.js"
 
 let endereco = new Endereco(123, 'Av. Paulista', 'Jardim Paulista', 'São Paulo');
